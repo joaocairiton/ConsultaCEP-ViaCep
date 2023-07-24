@@ -22,4 +22,3 @@ https://viacep.com.br/
 
 https://www.linkedin.com/in/joaocairiton/
 
-https://cairiton.netlify.app/
